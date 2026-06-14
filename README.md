@@ -56,6 +56,12 @@ Sebuah ekosistem Point of Sale (POS) kasir dan manajemen keuangan kafe multiplat
 * **Fitur**: Memproses transaksi penjualan langsung dari perangkat mobile secara cepat oleh pelayan, mengelola database menu makanan/minuman, mencatat pengeluaran & pemasukan harian, serta dilengkapi dasbor keanggotaan terintegrasi dengan perhitungan diskon otomatis.
 * **Tech Stack**: Laravel (PHP), React Native & Expo (JavaScript), MySQL.
 
+#### 🏢 4. [Dthanasha Kost](https://github.com/anandra00/dthanasha)
+Sebuah sistem informasi dan manajemen rumah kost modern terintegrasi (*Modern Boarding House Management System*).
+* **Fitur & Otomasi**: Mempermudah pemilik kost dalam mengelola status kamar, data penghuni, waiting list antrean, serta pencatatan transaksi pemasukan/pengeluaran operasional. Dilengkapi dashboard analitik keuangan, pembuatan tagihan bulanan otomatis menggunakan *Laravel Scheduler*, dan tombol keluhan WhatsApp terintegrasi yang otomatis terkunci jika penghuni belum melunasi tagihan aktif.
+* **Sistem Pembayaran**: Integrasi *Midtrans Payment Gateway* (Snap API) untuk opsi pembayaran online instan (Virtual Account, QRIS, e-Wallet), serta alternatif verifikasi pembayaran manual berbasis unggah bukti transfer.
+* **Tech Stack**: Laravel 11 (PHP 8.2), Alpine.js, Tailwind CSS, Midtrans API, MySQL.
+
 ---
 
 ### 📊 Statistik GitHub
