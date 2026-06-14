@@ -59,6 +59,6 @@ Sebuah platform portofolio karya mahasiswa terintegrasi yang dirancang khusus un
 
 ### 📫 Hubungi Saya
 
-* 📧 Email: [anandra00@apps.ipb.ac.id](mailto:anandra00@apps.ipb.ac.id)
+* 📧 Email: [anandra00@apps.ipb.ac.id](mailto:anandradandi00@gmail.com)
 * 💼 LinkedIn: [Anandra Dandi Anugrah](#)
 * 🐙 GitHub: [@anandra00](https://github.com/anandra00)
