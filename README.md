@@ -51,6 +51,11 @@ Sebuah sistem informasi dan manajemen hotel hewan piaraan premium (*Pet Hotel Bo
 * **Fitur**: Mempermudah pemilik hewan untuk memesan penginapan hewan piaraan, memilih jenis kamar/fasilitas, memantau kondisi harian hewan kesayangan melalui log status, serta mempermudah staf dalam manajemen kamar dan pencatatan pembayaran.
 * **Tech Stack**: JavaScript (Frontend React/Vite), PHP (Backend Laravel), Dart (Mobile Flutter), Tailwind CSS, MySQL.
 
+#### ☕ 3. [Cafier](https://github.com/anandra00/cafier)
+Sebuah ekosistem Point of Sale (POS) kasir dan manajemen keuangan kafe multiplatform.
+* **Fitur**: Memproses transaksi penjualan langsung dari perangkat mobile secara cepat oleh pelayan, mengelola database menu makanan/minuman, mencatat pengeluaran & pemasukan harian, serta dilengkapi dasbor keanggotaan terintegrasi dengan perhitungan diskon otomatis.
+* **Tech Stack**: Laravel (PHP), React Native & Expo (JavaScript), MySQL.
+
 ---
 
 ### 📊 Statistik GitHub
@@ -65,5 +70,5 @@ Sebuah sistem informasi dan manajemen hotel hewan piaraan premium (*Pet Hotel Bo
 ### 📫 Hubungi Saya
 
 * 📧 Email: [anandra00@apps.ipb.ac.id](mailto:anandradandi00@gmail.com)
-* 💼 LinkedIn: [Anandra Dandi Anugrah](#)
+* 💼 LinkedIn: [Anandra Dandi Anugrah](https://www.linkedin.com/in/anandra-dandi-anugrah/)
 * 🐙 GitHub: [@anandra00](https://github.com/anandra00)
