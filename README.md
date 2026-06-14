@@ -75,6 +75,6 @@ Sebuah sistem informasi dan manajemen rumah kost modern terintegrasi (*Modern Bo
 
 ### 📫 Hubungi Saya
 
-* 📧 Email: [anandra00@apps.ipb.ac.id](mailto:anandradandi00@gmail.com)
+* 📧 Email: [anandradandi00@gmail.com](mailto:anandradandi00@gmail.com)
 * 💼 LinkedIn: [Anandra Dandi Anugrah](https://www.linkedin.com/in/anandra-dandi-anugrah/)
 * 🐙 GitHub: [@anandra00](https://github.com/anandra00)
