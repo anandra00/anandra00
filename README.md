@@ -46,10 +46,10 @@ Sebuah platform portofolio karya mahasiswa terintegrasi yang dirancang khusus un
 * **Keamanan**: Proteksi rate-limiting brute-force, token reset password terenkripsi JSON berdurasi, pencegahan Mass Assignment, proteksi CSRF di seluruh form, dan audit keamanan lolos uji.
 * **Tech Stack**: Laravel 11, PHP 8.2, Alpine.js, Tailwind CSS, MySQL.
 
-#### 🐾 2. [Michu Meow Stay](https://github.com/anandra00/frontend-michupethotel)
+#### 🐾 2. [Michu Meow Stay](https://github.com/anandra00/Michumeowstay)
 Sebuah sistem informasi dan manajemen hotel hewan piaraan premium (*Pet Hotel Booking & Care System*).
 * **Fitur**: Mempermudah pemilik hewan untuk memesan penginapan hewan piaraan, memilih jenis kamar/fasilitas, memantau kondisi harian hewan kesayangan melalui log status, serta mempermudah staf dalam manajemen kamar dan pencatatan pembayaran.
-* **Tech Stack**: JavaScript (Frontend), PHP (Backend), Tailwind CSS, MySQL.
+* **Tech Stack**: JavaScript (Frontend React/Vite), PHP (Backend Laravel), Dart (Mobile Flutter), Tailwind CSS, MySQL.
 
 ---
 
@@ -66,4 +66,4 @@ Sebuah sistem informasi dan manajemen hotel hewan piaraan premium (*Pet Hotel Bo
 
 * 📧 Email: [anandra00@apps.ipb.ac.id](mailto:anandradandi00@gmail.com)
 * 💼 LinkedIn: [Anandra Dandi Anugrah](#)
-* 🐙 GitHub: [@anandra00](https://github.com/anandra00).
+* 🐙 GitHub: [@anandra00](https://github.com/anandra00)
