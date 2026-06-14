@@ -1,7 +1,7 @@
 # Halo, Saya Anandra Dandi Anugrah 👋
-**Software Engineering Student | Lead Full-Stack Developer**
+**Software Engineering Student | Full-stack Developer**
 
-Saya adalah mahasiswa program studi **Teknologi Rekayasa Perangkat Lunak (TRPL) Sekolah Vokasi IPB University**. Saya berfokus pada pengembangan aplikasi web modern yang andal, aman, dan berorientasi pada pengalaman pengguna yang premium.
+Saya adalah mahasiswa program studi **Teknologi Rekayasa Perangkat Lunak (TRPL) Sekolah Vokasi IPB University**. Saya berfokus pada pengembangan aplikasi web dan mobile modern yang andal, aman, dan berorientasi pada pengalaman pengguna yang premium.
 
 ---
 
