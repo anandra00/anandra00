@@ -1,5 +1,5 @@
 # Halo, Saya Anandra Dandi Anugrah 👋
-**Software Engineering Student | Full-stack Developer**
+**Software Engineering Student | Full-Stack Developer**
 
 Saya adalah mahasiswa program studi **Teknologi Rekayasa Perangkat Lunak (TRPL) Sekolah Vokasi IPB University**. Saya berfokus pada pengembangan aplikasi web dan mobile modern yang andal, aman, dan berorientasi pada pengalaman pengguna yang premium.
 
@@ -40,11 +40,16 @@ Saya adalah mahasiswa program studi **Teknologi Rekayasa Perangkat Lunak (TRPL) 
 
 ### 🛠️ Proyek Utama / Portofolio Unggulan
 
-#### 🏫 [Portal Karya & Akademik TRPL SV IPB](https://github.com/anandra00/PJBL-EUYY)
+#### 🏫 1. [Portal Karya & Akademik TRPL SV IPB](https://github.com/anandra00/portal-karya-tpl)
 Sebuah platform portofolio karya mahasiswa terintegrasi yang dirancang khusus untuk program studi TRPL Sekolah Vokasi IPB University.
 * **Arsitektur & Fitur**: Menggunakan arsitektur *Modular Monolith* di Laravel 11, dilengkapi pencarian & filter instan client-side (*Alpine.js*), Progressive Web App (PWA) caching, optimasi kompresi gambar otomatis berbasis GD Library, sistem analisis telemetri/kesehatan database, dan REST API V1 publik.
 * **Keamanan**: Proteksi rate-limiting brute-force, token reset password terenkripsi JSON berdurasi, pencegahan Mass Assignment, proteksi CSRF di seluruh form, dan audit keamanan lolos uji.
 * **Tech Stack**: Laravel 11, PHP 8.2, Alpine.js, Tailwind CSS, MySQL.
+
+#### 🐾 2. [Michu Meow Stay](https://github.com/anandra00/frontend-michupethotel)
+Sebuah sistem informasi dan manajemen hotel hewan piaraan premium (*Pet Hotel Booking & Care System*).
+* **Fitur**: Mempermudah pemilik hewan untuk memesan penginapan hewan piaraan, memilih jenis kamar/fasilitas, memantau kondisi harian hewan kesayangan melalui log status, serta mempermudah staf dalam manajemen kamar dan pencatatan pembayaran.
+* **Tech Stack**: JavaScript (Frontend), PHP (Backend), Tailwind CSS, MySQL.
 
 ---
 
@@ -61,4 +66,4 @@ Sebuah platform portofolio karya mahasiswa terintegrasi yang dirancang khusus un
 
 * 📧 Email: [anandra00@apps.ipb.ac.id](mailto:anandradandi00@gmail.com)
 * 💼 LinkedIn: [Anandra Dandi Anugrah](#)
-* 🐙 GitHub: [@anandra00](https://github.com/anandra00)
+* 🐙 GitHub: [@anandra00](https://github.com/anandra00).
