@@ -51,12 +51,12 @@ Sebuah sistem informasi dan manajemen hotel hewan piaraan premium (*Pet Hotel Bo
 * **Fitur**: Mempermudah pemilik hewan untuk memesan penginapan hewan piaraan, memilih jenis kamar/fasilitas, memantau kondisi harian hewan kesayangan melalui log status, serta mempermudah staf dalam manajemen kamar dan pencatatan pembayaran.
 * **Tech Stack**: JavaScript (Frontend React/Vite), PHP (Backend Laravel), Dart (Mobile Flutter), Tailwind CSS, MySQL.
 
-#### ☕ 3. [Cafier](https://github.com/anandra00/cafier)
+#### ☕ 3. [Cafier](https://github.com/nfkhrie26/Cafier)
 Sebuah ekosistem Point of Sale (POS) kasir dan manajemen keuangan kafe multiplatform.
 * **Fitur**: Memproses transaksi penjualan langsung dari perangkat mobile secara cepat oleh pelayan, mengelola database menu makanan/minuman, mencatat pengeluaran & pemasukan harian, serta dilengkapi dasbor keanggotaan terintegrasi dengan perhitungan diskon otomatis.
 * **Tech Stack**: Laravel (PHP), React Native & Expo (JavaScript), MySQL.
 
-#### 🏢 4. [Dthanasha Kost](https://github.com/anandra00/dthanasha)
+#### 🏢 4. [Dthanasha Kost](https://github.com/nfkhrie26/dthanasha)
 Sebuah sistem informasi dan manajemen rumah kost modern terintegrasi (*Modern Boarding House Management System*).
 * **Fitur & Otomasi**: Mempermudah pemilik kost dalam mengelola status kamar, data penghuni, waiting list antrean, serta pencatatan transaksi pemasukan/pengeluaran operasional. Dilengkapi dashboard analitik keuangan, pembuatan tagihan bulanan otomatis menggunakan *Laravel Scheduler*, dan tombol keluhan WhatsApp terintegrasi yang otomatis terkunci jika penghuni belum melunasi tagihan aktif.
 * **Sistem Pembayaran**: Integrasi *Midtrans Payment Gateway* (Snap API) untuk opsi pembayaran online instan (Virtual Account, QRIS, e-Wallet), serta alternatif verifikasi pembayaran manual berbasis unggah bukti transfer.
