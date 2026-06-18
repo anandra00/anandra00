@@ -59,7 +59,7 @@ Sebuah sistem informasi dan manajemen rumah kost modern terintegrasi (*Modern Bo
 ### 📊 Statistik GitHub
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=anandra00&show_icons=true&theme=tokyonight&count_private=true&v=1" alt="Statistik GitHub Anandra" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anandra00&show_icons=true&theme=tokyonight&count_private=true&v=2" alt="Statistik GitHub Anandra" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anandra00&layout=compact&theme=tokyonight" alt="Bahasa Pemrograman Terbanyak" height="180px"/>
 </p>
 
